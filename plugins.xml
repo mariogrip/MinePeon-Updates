@@ -10,6 +10,6 @@
   <name>GHashForCash Client</name>
   <maker>808Mining</maker>
   <description>GHashForCash Client plugin</description>
-    <downloadurl>https://raw.github.com/mariogrip/minepeon-plugin-MobileMinerApp/master/minepeon-plugin-MobileMinerApp.tar.gz</downloadurl>
+    <downloadurl>https://github.com/mariogrip/MinePeon-Updates/blob/master/files/minepeon-plugin-GHashForCashClient.tar.gz</downloadurl>
   </pl>
 </plugins>
